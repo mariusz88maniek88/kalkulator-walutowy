@@ -36,3 +36,12 @@ footer {
   font-size: 0.9em; }
 
 /*# sourceMappingURL=style.css.map */
+
+@media only screen and (max-width: 400px) {
+    .wynik_switch h2 {
+      font-size: 2em;
+      margin: 8% 15%;
+      float: none;
+      font-weight: 600;
+   }
+}
