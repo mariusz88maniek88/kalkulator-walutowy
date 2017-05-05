@@ -1,0 +1,40 @@
+/* Style Css */
+h1{
+    text-align: center;
+    margin: 50px 0;
+}
+.select1_css,{
+    margin: 3em 1em;
+}
+table{
+    margin: 4em 1em 10em;
+    img{
+        margin: 0 0.6em;
+    }
+}
+footer{
+    height: 50px;
+}
+.wynik_switch{
+    background-color: #efefef;
+    padding: 2em 3em 2em 1em;
+    border-radius: 10px;
+    border: 1px solid #dedede;
+    margin-bottom: 4em;
+    img{
+        text-align: center;
+        display: inline-block;
+        padding-right: 2em;
+    }
+    h2{
+        font-size: 2em;
+        margin: 0.5em 0.5em;
+        float: right;
+        font-weight: 600;
+    }
+}
+.bg-danger{
+    padding: 1em 1em;
+    border-radius: 10px;
+    font-size: 0.9em;
+}
